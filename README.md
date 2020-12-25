@@ -47,7 +47,7 @@ Show that Manhattan, Euclidean, Simple Matching, and Mahalanobis
 distance fulfill the triangle inequality. Find a counter example the shows that the
 correlation dissimilarity does not fulfill the triangle equality.
 
-# EXERCISE 1
+# Exercise 1
 
 ## a)
 
